@@ -1,0 +1,25 @@
+/* Common atributes of the body */
+body {
+  font-family: Verdana, sans-serif;
+  background-color: Black;
+  text-align: center;
+  color: White;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+.link {
+  color: Aquamarine;
+  font-size: 16px;
+}
+
+h2 {
+  font-size: 42px;
+}
+
+p {
+color: Gray;
+font-size: 21px;
+}
