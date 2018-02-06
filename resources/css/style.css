@@ -17,9 +17,16 @@ h1 {
 
 h2 {
   font-size: 42px;
+  font-weight: 300;
 }
 
 p {
-color: Gray;
-font-size: 21px;
+  color: Gray;
+  font-size: 21px;
+}
+
+#footer p {
+  color: Green;
+  font-size: 21px;
+  text-align: right;
 }
